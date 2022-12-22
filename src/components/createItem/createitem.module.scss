@@ -1,0 +1,33 @@
+.createItem{
+    margin-bottom: 10px;
+
+    input{
+        padding: 5px 10px;
+        border-radius: 5px;
+        font-weight: 700;
+        color: black;
+    }
+}
+
+label{
+    margin-right: 10px;
+    text-transform: capitalize;
+    min-width: 100px;
+    display: inline-block;
+}
+
+.select {
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: black;
+    width: 230px;
+    margin-bottom: 10px;
+    option{
+        font-weight: 700;
+    }
+
+    option {
+        color: black;
+    }
+}

@@ -1,0 +1,27 @@
+.home {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    .word {
+        border: 2px solid black;
+        width: 400px;
+        border-radius: 5px;
+        padding: 10px 15px;
+
+
+        h2 {
+            margin-bottom: 20px;
+            font-size: 22px;
+        }
+
+        .itemWrap {
+            .select {
+                color: black;
+
+                option {
+                    color: black;
+                }
+            }
+        }
+    }
+}
